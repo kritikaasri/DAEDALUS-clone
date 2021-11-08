@@ -1,3 +1,5 @@
+## CLONE OF [pyDAEDALUS](https://github.com/lcbb/pyDAEDALUS) with debugging. 
+
 [Daedalus](http://daedalus-dna-origami-portal.org/) - software to render nearly any 3D geometry as a scaffolded DNA origami nanoparticle.
 
 Your 3D models can be input using the Polygon File Format (.ply).
